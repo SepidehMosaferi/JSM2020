@@ -1,2 +1,2 @@
 # JSM2020
-Slides of JSM2020
+Slides for JSM 2020
